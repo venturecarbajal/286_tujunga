@@ -1,0 +1,50 @@
+.brand-logo {
+    /* padding-left: 60px; */
+    margin-left: 25px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+.story {
+    color: white;
+    margin-top: 15px;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+.story-title {
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.amenities-list {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+.col {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+header {
+    position: relative;
+    padding: 0;
+    color: black;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+}
+
+.apt-img {
+    padding-top: 20px;
+    margin-top: 20px;
+}

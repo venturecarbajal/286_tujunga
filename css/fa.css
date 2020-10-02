@@ -1,0 +1,22 @@
+/* custom styling for all icons */
+i.fas,
+i.fab {
+  /* border: 1px solid black; */
+  /* margin-left: 10px; */
+  /* padding-left:25px ; */
+}
+
+.fa-paper-plane {1
+    /* padding-left: 2px; */
+}
+
+/* i.fas {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0)
+} */
+
