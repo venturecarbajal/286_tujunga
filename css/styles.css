@@ -26,15 +26,17 @@
 .amenities-list {
     margin-right: -15px;
     margin-left: -15px;
+    font-size: 20px;
+    /* float: none; */
 }
 
 
-.col {
+/* .col {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-}
+} */
 
 header {
     position: relative;
@@ -48,3 +50,12 @@ header {
     padding-top: 20px;
     margin-top: 20px;
 }
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    padding: 10px;
+}
+
